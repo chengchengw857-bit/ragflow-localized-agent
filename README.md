@@ -1,4 +1,4 @@
-# 基于 RAGFlow 的企业级供应链私有化智能知识库 🚀
+# 基于 RAGFlow 的企业级私有化智能知识库 🚀
 
 <p align="center">
   <a href="https://github.com/chengchengw857-bit/ragflow-localized-agent">
